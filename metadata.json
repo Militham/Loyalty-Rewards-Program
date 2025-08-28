@@ -1,0 +1,5 @@
+{
+  "name": "BrewRewards Loyalty Program (WordPress)",
+  "description": "A dashboard for a coffee shop's loyalty program, designed to be embedded in a WordPress site. It fetches user data from WordPress and uses a WordPress backend to generate personalized offers with AI.",
+  "requestFramePermissions": []
+}
